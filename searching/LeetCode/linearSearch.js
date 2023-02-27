@@ -1,7 +1,7 @@
 // Here is Name of Student In a School
 const arrOfStudents = ["Alex", "Andrew", "Anthony", "Benjamin", "Bradley", "Brian", "Charles", "Daniel"];
 // Setting a target To find our Student is Available in our Array.
-const findStudent = "Nomru";
+const findStudent = "Benjamin";
 // Write a Function for check all name and
 // find out if our Target name is available and Output that in console
 // OR if not available then output not found on the  Array.
