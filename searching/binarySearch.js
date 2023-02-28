@@ -1,7 +1,7 @@
-// 
+// Binary Search or You can Say Divided and Coquer
 const arrOfNum = [ 10, 20, 30, 40, 50, 60, 70, 80, 90, 100, 110, 120, 130, 140 ]
 
-const key = 70;
+const key = 110;
 
 function binarySearch (arr , key) {
     let start = 0;
