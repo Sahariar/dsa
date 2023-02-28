@@ -8,7 +8,8 @@ function binarySearch (arr , key) {
     let end = arr.length - 1;
     
  while (start <= end){
-    // At each iteration, the function computes the middle index mid using the formula (start + end) / 2 and checks if the element at mid is equal to the target value key. If so, the function returns mid. If not, the function updates either 
+    // At each iteration, the function computes the middle index mid using the formula (start + end) / 
+    // 2 and checks if the element at mid is equal to the target value key. If so, the function returns mid. If not, the function updates either 
     // the start or end index depending on whether the element at mid is less than or greater than key.
     let mid = Math.floor((start + end ) /2)
     if(arr[mid] === key){
